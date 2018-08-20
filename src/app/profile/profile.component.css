@@ -1,0 +1,15 @@
+.myButton {
+	background-color:#B8044D;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:8px 18px;
+	text-decoration:none;
+    margin: 2px;
+    box-shadow: 0 0 0 2px white, 0 0 0 3px #B8044D;
+}
